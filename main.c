@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main(){
-    int a;
+    int a,b,sum;
+    sum = a + b;
     return 0;
 }
